@@ -57,7 +57,7 @@ private studentSer studentSer;
 
         Exception exception = assertThrows(IllegalArgumentException.class, () ->
                 studentSer.addStudent( new Student(1 , "tuyen" , 20 , 12.2)));
-        assertEquals("diem phai nam giua 0 va 10",exception.getMessage());
+        assertEquals("diem phai nasadadasdm giua 0 va 10",exception.getMessage());
     }
 
 
