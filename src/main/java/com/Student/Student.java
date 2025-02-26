@@ -1,9 +1,9 @@
 package com.Student;
 
 public class Student {
-    private Integer id;
-    private String name;
-    private Integer age;
-    private Double mark;
+    public Integer id;
+    public String name;
+    public Integer age;
+    public Double mark;
 
 }
