@@ -59,4 +59,6 @@ private studentSer studentSer;
                 studentSer.addStudent( new Student(1 , "tuyen" , 20 , 12.2)));
         assertEquals("diem phai nam giua 0 va 10",exception.getMessage());
     }
+
+//    sadsadsadasdasdsa
 }
