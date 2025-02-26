@@ -6,4 +6,6 @@ public class Student {
     public Integer age;
     public Double mark;
 
+    public Student() {
+    }
 }
